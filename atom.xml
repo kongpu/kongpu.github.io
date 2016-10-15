@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-10-10T01:51:58.057Z</updated>
+  <updated>2016-10-15T06:26:13.932Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,33 +16,44 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>龙</title>
-    <link href="http://yoursite.com/2016/10/10/%E9%BE%99/"/>
-    <id>http://yoursite.com/2016/10/10/龙/</id>
-    <published>2016-10-10T01:51:57.000Z</published>
-    <updated>2016-10-10T01:51:58.057Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title></title>
-    <link href="http://yoursite.com/2016/10/10/%E6%96%B0%E6%96%87%E6%A1%A3/"/>
-    <id>http://yoursite.com/2016/10/10/新文档/</id>
-    <published>2016-10-10T01:41:08.540Z</published>
-    <updated>2016-10-10T01:51:19.761Z</updated>
+    <link href="http://yoursite.com/2016/10/15/linnx/"/>
+    <id>http://yoursite.com/2016/10/15/linnx/</id>
+    <published>2016-10-15T04:39:19.655Z</published>
+    <updated>2016-10-15T06:26:13.932Z</updated>
     
-    <content type="html"><![CDATA[<p>###图片<br><img src="http://oet4lqmna.bkt.clouddn.com/d7886fc0ed3c116c704fc92d58fea522.jpg" alt="图片"></p>
+    <content type="html"><![CDATA[<h1 id="谈如何学习Linux"><a href="#谈如何学习Linux" class="headerlink" title="谈如何学习Linux"></a>谈如何学习Linux</h1><h2 id="一、选择适合自己的Linux发行版"><a href="#一、选择适合自己的Linux发行版" class="headerlink" title="一、选择适合自己的Linux发行版"></a>一、选择适合自己的Linux发行版</h2><h3 id="1-1-初学者入门首选——Centos系列"><a href="#1-1-初学者入门首选——Centos系列" class="headerlink" title="1.1 初学者入门首选——Centos系列"></a>1.1 初学者入门首选——Centos系列</h3><p>在了解了Linux几个主要发行版本后，我们就找到了为何选择CentOS作为初学者入门学习的理由了。</p>
+<p>CentOS现在拥有庞大的网络用户群体，网络Linux资源基本80%都是基于CentOS发行版的，如果在学习过程中遇到任何问题，在网络中可以较容易地搜索到解决方案。</p>
+<p>CentOS系列版本可以轻松获得。可以从CentOS官网或者163开源、sohu开源、阿里云开源站下载CentOS各个版本的安装介质，如果是第一次接触Linux，那么建议先安装Fedora Core。Fedora Core的安装简单，对硬件支持很好，界面也很华丽，同时也可以体验Linux的最新功能。如果对Linux有一定的了解，需要深入学习，建议使用CentOS发行版系统。</p>
+<p>CentOS应用范围广，具有典型性和代表性，现在基本所有的互联网公司后台服务器都采用CentOS作为操作系统，可以说学会了CentOS，不但能迅速融入企业的工作环境，还能触类旁通，其它类似的Linux发行版也能很快掌握。同时，现在周围学习Linux的用户一般也都是以CentOS为主的，这样交流方便，学习中出现问题，更容易得到解决。最主要的是CentOS的安装和使用上也是最简单的，因此基本上不会在“装系统”上浪费过多时间。</p>
+<h3 id="1-2-桌面平台首选——Ubuntu-Linux"><a href="#1-2-桌面平台首选——Ubuntu-Linux" class="headerlink" title="1.2 桌面平台首选——Ubuntu Linux"></a>1.2 桌面平台首选——Ubuntu Linux</h3><p>说到Linux桌面市场，Ubuntu Linux几乎占据了桌面Linux的半壁江山，Ubuntu Linux主打Linux桌面之最，界面美观，简洁而不失华丽，如果想在Linux下进行娱乐休闲，Ubuntu Linux绝对是首选。</p>
+<p>Ubuntu的安装非常人性化，只需按照提示一步一步进行。Ubuntu被誉为对硬件支持最好最全面的Linux发行版之一，许多在其他发行版上无法使用的，或者在默认配置时无法使用的硬件，在Ubuntu上都能轻松安装使用。因此用户可以像安装Windows一样轻松地安装Ubuntu，尽情体验Ubuntu Linux带来的乐趣。</p>
+<h3 id="1-3-企业级应用首选——RHEL-Centos系列"><a href="#1-3-企业级应用首选——RHEL-Centos系列" class="headerlink" title="1.3 企业级应用首选——RHEL/Centos系列"></a>1.3 企业级应用首选——RHEL/Centos系列</h3><p>企业级的应用追求的是可靠性和稳定性，这就要求构建企业级应用的系统平台具有高可靠性和高稳定性。企业级Linux的发行版本就是解决的这个问题。</p>
+<p>RHEL与Centos两个Linux发现版本，并没有太大差别，所不同的是RHEL属于商业Linux发行版本，如果要使用RHEL版本，则需要购买商业授权和咨询服务，Red Hat提供系统的技术支持并提供系统的免费升级。目前Red Hat官网已经不再提供可免费下载的光盘介质，如果需要试用，可通过官网下载有试用时间的评估版Linux。而CentOS属于非商业发行版，可以从网上免费下载CentOS各个版本的安装介质，但CentOS并不提供商业支持，当然使用者也不用负上任何商业责任。</p>
+<p>那么，到底是选择CentOS还是RHEL呢，这取决于你所在公司是否拥有相应的技术力量，如果是单纯的业务型企业，那么建议选购RHEL发行版并购买相应服务，这样可以节省企业的IT管理费用，并可得到专业的技术支持服务。相反，如果企业技术力量比较强大，并且有多年Linux使用经验的话，那么CentOS发行版将是最好的选择。</p>
+<h2 id="二、养成良好的Linux操作习惯"><a href="#二、养成良好的Linux操作习惯" class="headerlink" title="二、养成良好的Linux操作习惯"></a>二、养成良好的Linux操作习惯</h2><p>开始Linux的学习之后，请不要用Windows的工作方式来思考问题，因为它们之间确实有很大的不同，比如它们之间的内存管理机制、进程运行机制等都有很大不同，因此抛开Windows的那种思维，用全新的理念尝试去挖掘Linux身上特有的潜质，对初学者是至关重要的。</p>
+<p>###2.1 一定要习惯命令行方式</p>
+<p>Linux是由命令行组成的操作系统，精髓在命令行，无论图形界面发展到什么水平，命令行方式的操作永远是不会变的。Linux命令有许多强大的功能：从简单的磁盘操作、文件存取，到进行复杂的多媒体图像和流媒体文件的制作，都离不开命令行。虽然Linux也有桌面系统，但是X-window也只是运行在命令行模式下的一个应用程序。</p>
+<p>因此，可以说命令是学习Linux系统的基础，在很大程度上学习Linux就是学习命令，很多Linux高手其实都是玩儿命令很熟练的人。</p>
+<p>也许对于刚刚从Windows系统进入Linux学习的初学者来说，立刻进入枯燥的命令学习实在太难，但是一旦学会就爱不释手。因为它的功能实在太强大了。</p>
+<h3 id="2-2-理论结合实践"><a href="#2-2-理论结合实践" class="headerlink" title="2.2 理论结合实践"></a>2.2 理论结合实践</h3><p>有很多初学者都会遇到这么一个问题，自己对系统的每个命令都很熟悉，但是在系统出现故障的时候，就无从下手了，甚至不知道在什么时候用什么命令去检查系统，这是很多Linux新手最无奈的事情了。说到底，就是学习的理论知识没有很好地与系统实际操作相结合。</p>
+<p>很多Linux知识，例如每个命令的参数含义，在书本上说得很清楚，看起来也很容易理解，但是一旦组合起来使用，却并不那么容易，没有多次的动手练习，其中的技巧是无法完全掌握的。</p>
+<p>人类大脑不像计算机的硬盘，除非硬盘坏掉或者硬盘被格式化，否则储存的资料将永远记忆在硬盘中，而且时刻可以调用。而在人类记忆的曲线中，必须要不断地重复练习才会将一件事情记得比较牢。学习Linux也一样，如果无法坚持学习的话，就会学了后面的，忘记了前面的。还有些Linux初学者也学了很多Linux知识，但是由于长期不用，导致学过的东西在很短的时间内又忘记了，久而久之，失去了学习的信心。</p>
+<p>可见，要培养自己的实战技能，只有勤于动手，肯于实践，这也是学好Linux的根本。</p>
+<h3 id="2-3-学会使用Linux联机帮助"><a href="#2-3-学会使用Linux联机帮助" class="headerlink" title="2.3 学会使用Linux联机帮助"></a>2.3 学会使用Linux联机帮助</h3><p>各个Linux的发行版本的技术支持时间都较短，这对于Linux初学者来说往往是不够的，其实当安装了完整的Linux系统后其中已经包含了一个强大的帮助，只是可能你还没有发现它，或者还没有掌握使用它的技巧。例如，对于tar命令的使用不是很熟悉，那么只要在命令行输入“man tar”，就会得到tar的详细说明和用法。</p>
+<p>主流的Linux发行版都自带了非常详细的帮助文档，包括使用说明和FAQ，从系统的安装到系统的维护，再到系统安全，针对不同层次用户的详尽文档。仔细阅读文档后，60%的问题都可在这里得到解决。</p>
+<h3 id="2-4-学会独立思考问题，独立解决问题"><a href="#2-4-学会独立思考问题，独立解决问题" class="headerlink" title="2.4 学会独立思考问题，独立解决问题"></a>2.4 学会独立思考问题，独立解决问题</h3><p>遇到问题，首先想到的应该是如何自己去解决这个问题，解决方式有很多，比如看书查资料、网络搜索引擎搜索和浏览技术论坛等，通过这几种方式，90%的问题都能得到解决</p>
+<p>独立思考并解决问题，不但锻炼了自己独立解决问题的能力，在技术上也能得到快速提高。如果通过以上方式实在解决不了的话，可以向人询问，得到答案后要思考为何这么做，然后做笔记记录解决过程。最忌讳的方式是只要遇到问题，就去问人，虽然这样可能会很快解决问题，但是长久下去遇到问题就会依赖别人，技术上也不会进步。</p>
+<h3 id="2-5-学习专业英语"><a href="#2-5-学习专业英语" class="headerlink" title="2.5 学习专业英语"></a>2.5 学习专业英语</h3><p>如果想深入学习Linux，一定要尝试去看英文文档。因为，技术性的东西写的最好的，最全面的文档都是英语写的，最先发布的高新技术也都是用英语写的。即便是非英语国家的人发布技术文档，也都首先翻译成英语在国际学术杂志和网络上发表。安装一个新的软件时先看Readme文档，再看Install文档，然后看FAQ文档，最后才动手安装，这样遇到问题就知道原因了。因此，学习一点专业的英语是很有必要的。</p>
+<h2 id="三、Linux学习路线图"><a href="#三、Linux学习路线图" class="headerlink" title="三、Linux学习路线图"></a>三、Linux学习路线图</h2><p>Linux运维或管理人才是企业目前急需的技术人才之一，笔者根据10多年Linux相关工作经验，总结出了一套学习Linux的线路图，大家可以此线路图为依据，抓住重点，分清主次，相信一定能达到事半功倍的效果。如果读者能认真学习完并掌握本线路图所涉及的技术要点，那么也就基本掌握了企业对Linux运维或管理人才的基本应用需求。</p>
+<p>Linux学习线路图如下图所示，本线路图分为初级、中级和高级三个阶段：初级阶段主要是对Linux基础知识以及系统基本应用的介绍，要掌握的内容较多，如果初次接触Linux，那么入门还是有一定难度的，Linux注重的是命令操作，因此初级阶段以学习基础命令为主，多看书、多实践是学好命令的根本；中级阶段以服务器常见配置为主，涉及各种应用服务器的配置、网络配置、系统安全配置等几个方面。此阶段的难点在于各种服务器的搭建，对综合知识要求较高；高级阶段的重点是编程语言、集群架构两个方面，此阶段的发展方向是高级运维工程师或系统架构师，要成为系统架构师，熟练掌握一门编程语言是必须的，而Linux下常见的各种集群架构、分布式架构也是高级运维工程师必须要掌握的。</p>
+<p><img src="http://of2q0xifw.bkt.clouddn.com/2816349-8ed49151e19f0bc3.png" alt="进阶图"></p>
+<p>文／51CTO学院（简书作者）<br><a href="http://www.jianshu.com/p/7f9e2b8e4403" target="_blank" rel="external">原文链接：</a><br>著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;###图片&lt;br&gt;&lt;img src=&quot;http://oet4lqmna.bkt.clouddn.com/d7886fc0ed3c116c704fc92d58fea522.jpg&quot; alt=&quot;图片&quot;&gt;&lt;/p&gt;
-
+      &lt;h1 id=&quot;谈如何学习Linux&quot;&gt;&lt;a href=&quot;#谈如何学习Linux&quot; class=&quot;headerlink&quot; title=&quot;谈如何学习Linux&quot;&gt;&lt;/a&gt;谈如何学习Linux&lt;/h1&gt;&lt;h2 id=&quot;一、选择适合自己的Linux发行版&quot;&gt;&lt;a href=&quot;#一、选择
     
     </summary>
     
